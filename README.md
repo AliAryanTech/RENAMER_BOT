@@ -36,11 +36,11 @@ Telegram File Renamer Bot
 * `/broadcast` reply to message
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/RENAMER_BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vampire421/RENAMER_BOT)
 
 ## License
 ````
-lntechnical2/RENAMER_BOT is licensed under the
+vampirehf/RENAMER_BOT is licensed under the
 Apache License 2.0
 A permissive license whose main conditions require preservation of copyright and license notices.
 Contributors provide an express grant of patent rights.
