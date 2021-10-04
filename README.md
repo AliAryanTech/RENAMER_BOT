@@ -40,7 +40,7 @@ Telegram File Renamer Bot
 
 ## License
 ````
-lntechnical2/RENAMER_BOT is licensed under the
+vampirehf/RENAMER_BOT is licensed under the
 Apache License 2.0
 A permissive license whose main conditions require preservation of copyright and license notices.
 Contributors provide an express grant of patent rights.
